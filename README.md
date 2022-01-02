@@ -16,3 +16,9 @@ The page is simple. It consists of a few sections, some progress bars and and im
 I must say even though I've known html to a while. I still learned about the details tag, 
 which I felt was cool. 
 ![image](https://user-images.githubusercontent.com/92284392/147863732-2d83329a-0dd3-474e-b8dc-e6a57e19fd62.png)
+
+## Final Notes
+Another take away from this course was to run your HTML code through a code validator. 
+Which I will put into practice moving forward. For this project I used https://validator.w3.org/
+
+![image](https://user-images.githubusercontent.com/92284392/147863821-dbb5ea37-4aa6-4511-9c95-1028f20c0531.png)
